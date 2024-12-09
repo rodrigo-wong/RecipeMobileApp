@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 
+.video.txt
 # Expo
 .expo/
 dist/
